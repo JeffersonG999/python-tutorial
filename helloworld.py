@@ -1,4 +1,4 @@
-a# Get started
+# Get started
 print("Hello, World !")
 
 # Indentation
